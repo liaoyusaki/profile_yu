@@ -25,7 +25,8 @@ const TimelinePro = () => {
                         variant="body2"
                         color="text.secondary"
                     >
-                        2022-09 to now
+                        <p>2022-09 to now</p>
+                        <p>Luxembourg</p>
                     </TimelineOppositeContent>
                     <TimelineSeparator>
                         <TimelineConnector />
@@ -48,7 +49,8 @@ const TimelinePro = () => {
                         variant="body2"
                         color="text.secondary"
                     >
-                        2019-10 to 2022-07
+                        <p>2019-10 to 2022-07</p>
+                        <p>Paris, France</p>
                     </TimelineOppositeContent>
                     <TimelineSeparator>
                         <TimelineConnector />
@@ -78,7 +80,8 @@ const TimelinePro = () => {
                         variant="body2"
                         color="text.secondary"
                     >
-                        2016 to 2018
+                        <p>2016 to 2018</p>
+                        <p>Tokyo, Japan</p>
                     </TimelineOppositeContent>
                     <TimelineSeparator>
                         <TimelineConnector />
@@ -103,7 +106,8 @@ const TimelinePro = () => {
                         variant="body2"
                         color="text.secondary"
                     >
-                        2014-11 to 2015-01
+                        <p>2014-11 to 2015-01</p>
+                        <p>Shenzhen, China</p>
                     </TimelineOppositeContent>
                     <TimelineSeparator>
                         <TimelineConnector />
@@ -128,7 +132,8 @@ const TimelinePro = () => {
                         variant="body2"
                         color="text.secondary"
                     >
-                        2011 to 2015
+                        <p>2011 to 2015</p>
+                        <p>Shenzhen, China</p>
                     </TimelineOppositeContent>
                     <TimelineSeparator>
                         <TimelineConnector />
