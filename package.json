@@ -1,7 +1,7 @@
 {
   "name": "profile_yu",
   "version": "0.1.0",
-  "homepage": "https://github.com/liaoyusaki/profile_yu",
+  "homepage": "https://liaoyusaki.github.io/profile_yu",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.5",
