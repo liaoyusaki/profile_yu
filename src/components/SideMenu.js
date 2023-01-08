@@ -10,7 +10,7 @@ const { Sider } = Layout;
 
 const items = [
     {
-        path: "/profile_yu",
+        path: "/",
         label: 'About me',
         key: 'abt',
         icon: <BiUserCircle />,
