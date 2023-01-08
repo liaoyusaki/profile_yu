@@ -45,7 +45,7 @@ const GlobalLayout = () => {
                         }}
                     >
                         <Routes>
-                            <Route path="/" element={<AboutMe />}></Route>
+                            <Route path="/profile_yu" element={<AboutMe />}></Route>
                             <Route path="/resume" element={<TimelinePro />}></Route>
                         </Routes>
                     </div>
