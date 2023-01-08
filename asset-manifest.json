@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/liaoyusaki/profile_yu/static/css/main.073c9b0a.css",
-    "main.js": "/liaoyusaki/profile_yu/static/js/main.5f512b74.js",
-    "static/js/787.c1af04df.chunk.js": "/liaoyusaki/profile_yu/static/js/787.c1af04df.chunk.js",
-    "static/media/ch_interlaken_para.JPG": "/liaoyusaki/profile_yu/static/media/ch_interlaken_para.75531b9134f94960c4b3.JPG",
-    "index.html": "/liaoyusaki/profile_yu/index.html",
-    "main.073c9b0a.css.map": "/liaoyusaki/profile_yu/static/css/main.073c9b0a.css.map",
-    "main.5f512b74.js.map": "/liaoyusaki/profile_yu/static/js/main.5f512b74.js.map",
-    "787.c1af04df.chunk.js.map": "/liaoyusaki/profile_yu/static/js/787.c1af04df.chunk.js.map"
+    "main.css": "/profile_yu/static/css/main.073c9b0a.css",
+    "main.js": "/profile_yu/static/js/main.be851134.js",
+    "static/js/787.c1af04df.chunk.js": "/profile_yu/static/js/787.c1af04df.chunk.js",
+    "static/media/ch_interlaken_para.JPG": "/profile_yu/static/media/ch_interlaken_para.75531b9134f94960c4b3.JPG",
+    "index.html": "/profile_yu/index.html",
+    "main.073c9b0a.css.map": "/profile_yu/static/css/main.073c9b0a.css.map",
+    "main.be851134.js.map": "/profile_yu/static/js/main.be851134.js.map",
+    "787.c1af04df.chunk.js.map": "/profile_yu/static/js/787.c1af04df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.5f512b74.js"
+    "static/js/main.be851134.js"
   ]
 }
