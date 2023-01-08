@@ -50,14 +50,14 @@ const GlobalLayout = () => {
                         </Routes>
                     </div>
                 </Content>
-                <Footer
-                    style={{
-                        textAlign: 'right',
-                        paddingRight: '20px'
-                    }}
-                >
-                    Updated on: 2023-01-08
-                </Footer>
+                {/*<Footer*/}
+                {/*    style={{*/}
+                {/*        textAlign: 'right',*/}
+                {/*        paddingRight: '20px'*/}
+                {/*    }}*/}
+                {/*>*/}
+                {/*    Updated on: 2023-01-08*/}
+                {/*</Footer>*/}
             </Layout>
         </Layout>
     )
