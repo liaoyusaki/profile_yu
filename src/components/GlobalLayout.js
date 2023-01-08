@@ -24,12 +24,12 @@ const GlobalLayout = () => {
                     style={{
                         width: '100%',
                         padding: 0,
-                        background: '#f5f5f5',
+                        background: 'white',
                     }}
                 >
                     <div style={{textAlign: 'right', paddingRight: '20px'}}>
                         <Clock
-                            style={{fontSize: '1em', fontWeight: 'bold', paddingLeft:'20px'}}
+                            style={{fontSize: '1em', fontWeight: 'bold', paddingLeft:'20px', color: 'gray'}}
                             format={'dddd, MMMM Mo, YYYY, h:mm:ss A'}
                             ticking={true}
                         />
